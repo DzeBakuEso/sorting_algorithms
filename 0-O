@@ -1,6 +1,6 @@
-O(n^2)
+O(n^2)  # Best case
 
-O(n)
+O(n)  # Average case
 
-O(n^2)
+O(n^2)  Worst case
 
