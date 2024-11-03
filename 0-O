@@ -1,6 +1,6 @@
-O(n^2)  # Best case
+O(n)    /** Best case: when the array is already sorted */
 
-O(n)  # Average case
+O(n^2)  /** Average case: for a randomly ordered array */
 
-O(n^2)  Worst case
+O(n^2)  /** Worst case: when the array is sorted in reverse order */
 
